@@ -1,0 +1,25 @@
+body{
+   
+    background-color: bisque;
+    
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+
+}
+
+form{
+    color: blue;
+    width: 50%;
+}
+
+.h1{
+    color: red;
+    background-color: lightblue;
+    text-align: center;
+}
